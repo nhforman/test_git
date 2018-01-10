@@ -1,1 +1,2 @@
 Full name: Noah Forman
+Department: Computer Science
